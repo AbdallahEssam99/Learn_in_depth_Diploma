@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : diploma.c
+ Name        : diploma.c//
  Author      : 
  Version     :
  Copyright   : Your copyright notice
